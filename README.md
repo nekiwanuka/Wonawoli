@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
@@ -79,3 +80,6 @@ This project is developed for demo purpose and it's not supposed to be used in r
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/sumit.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+=======
+# Wonawoli
+>>>>>>> 20122d591d494272f4730efcddfeedaa09e74bb4
